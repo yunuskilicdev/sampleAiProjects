@@ -1,0 +1,6 @@
+langchain
+gradio
+transformers
+bs4
+requests
+torch
