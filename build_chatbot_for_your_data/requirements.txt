@@ -1,0 +1,17 @@
+Flask
+Flask_Cors
+pdf2image
+chromadb
+pypdf
+tiktoken
+langchain
+pydantic
+pandas
+atlassian-python-api
+huggingface-hub
+torch
+sentence-transformers
+InstructorEmbedding
+p4python
+lxml
+bs4
